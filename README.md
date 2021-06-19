@@ -16,7 +16,7 @@ Usage:
  ### Result from above
  
  ```
- String to be appended to bitcoin.conf:
+ String to be appended to xazab.conf:
 rpcauth=username:d02ef158d8c8a88c899a8888e8888a21i99a987a88a77a88a88a88a88aa7ae
 Your password:  hIuIAMwb3OJxMON-dJorUi3UYD72AduE21Uy2=
 ```
