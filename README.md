@@ -32,6 +32,7 @@ algo=lyra2
 gen=0
 rpcauth=username:d02ef158d8c8a88c899a8888e8888a21i99a987a88a77a88a88a88a88aa7ae
 ```
+**More algorithm to use include: algo=sha256d, algo=scrypt, algo=yespower, algo=x11**
 
 Save the above and run the xazab-qt or xazabd wallet
 
